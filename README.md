@@ -1,1 +1,1 @@
-# diplom
+# python, flask, mysql
